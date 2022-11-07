@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practicas App</string>
+    <string name="title_onboarding">Tu App de Viajes</string>
+    <string name="subtitle_onboarding">Hola, estamos buscando a millones de usuarios con inquietudes y ganas de
+    viajar. Si eres tu?No lo dudes accede a nuestra app y descubriras miles de destinos y facilidades para alquilar coches
+        , ver el tiempo...
+    </string>
+    <string name="Next">next</string>
+    <string name="title_home">Upcoming meetups</string>
+    <string name="title_cardview_2">Madives - 3 weeks</string>
+        <string name="subtitle_cardview_2">Beach vacation</string>
+    <string name="subtitle_cardview_1">City Of Los Angeles</string>
+    <string name="title_cardview_1">USA, Los Angeles - 2 weeks</string>
+</resources>
